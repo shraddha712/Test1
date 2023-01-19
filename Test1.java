@@ -37,5 +37,8 @@ public class Test1 {
 		third party tool,it creates folder automatically
 		*/
 	}
-
+		//FileUtils.copyDirectory(tempfile, destfile);
+		/*fileutils:=common i/o tool it is present in 
+		third party tool,it creates folder automatically
+		*/
 }
